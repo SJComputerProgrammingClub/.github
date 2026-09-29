@@ -1,0 +1,3 @@
+# SJ ComputerProgrammingClub
+
+Welcome!
