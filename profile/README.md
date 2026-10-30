@@ -1,3 +1,3 @@
-# SJ ComputerProgrammingClub
+# Strake Jesuit Computer Programming Club
 
 Welcome!
